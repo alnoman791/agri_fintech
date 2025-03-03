@@ -46,3 +46,7 @@ AgriFinConnect is a web-based platform that connects farmers with potential inve
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/agrifinconnect.git
+
+
+## Live Link of the Website
+ahsunahmed.github.io/agri_fintech

@@ -1,11 +1,3 @@
-<?php
-session_start();
-if (isset($_SESSION['admin_id'])) {
-    header("Location: admin_dashboard.php"); // Redirect if already logged in
-    exit();
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
